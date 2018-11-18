@@ -198,7 +198,7 @@ i:before {
   height: 3px;
   width: 25px;
   display: block;
-  background: #0b1033;
+  background: black;
   margin-bottom: 3px;
 }
 
@@ -228,7 +228,7 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #0b1033; 
+  color: black; 
   letter-spacing: .65px;
   padding: 0px;
   line-height: 118px;
@@ -289,7 +289,7 @@ i:before {
 }
 
 .main_menu_area .navbar .navbar-nav li.submenu .dropdown-menu li:hover a {
-  color: white;
+  color: black;
 }
 
 @media (min-width: 992px) {
