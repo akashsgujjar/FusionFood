@@ -118,7 +118,7 @@
         text-align: left;
     }
     .main_menu_area .navbar .navbar-collapse {
-        background: rgba(0, 0, 0, 1);
+        background: rgba(255, 255, 255, 1);
         max-height: 306px;
         overflow-y: scroll;
     }
